@@ -73,10 +73,10 @@ st.write('\n')
 st.subheader("Experience & Qulifications")
 st.write(
     """
-- ✔️ 3 Years expereince extracting actionable insights from data
-- ✔️ Strong hands on experience and knowledge in Python and Excel
+- ✔️ 3 Years experience extracting actionable insights from data
+- ✔️ Strong hands-on experience and knowledge in Python and Excel
 - ✔️ Good understanding of statistical principles and their respective applications
-- ✔️ Excellent team-player and displaying strong sense of initiative on tasks
+- ✔️ Excellent team-player and displays strong sense of initiative on tasks
 """
 )
 
@@ -88,7 +88,7 @@ st.write(
     """
 - 👩‍💻 Programming: Python (Scikit-learn, Pandas), SQL, VBA
 - 📊 Data Visulization: PowerBi, MS Excel, Plotly
-- 📚 Modeling: Logistic regression, linear regression, decition trees
+- 📚 Modeling: Logistic regression, linear regression, decision trees
 - 🗄️ Databases: Postgres, MongoDB, MySQL
 """
 )
@@ -106,7 +106,7 @@ st.write(
     """
 - ► Used PowerBI and SQL to redeﬁne and track KPIs surrounding automation initiatives, and supplied recommendations to reduce work-hours by 30%.
 - ► Lead a team of 4 analysts to brainstorm potential RPA improvements, and implemented A/B tests to generate 15% increase in productivity.
-- ► Compiled, studied, and inferred large amounts of data, modeling information to drive assett management.
+- ► Compiled, studied, and inferred large amounts of data, modeling oil well information to drive asset management.
 """
 )
 
@@ -116,8 +116,8 @@ st.write("🚧", "**Python Developer | Shell Energy**")
 st.write("02/2018 - 08/2018")
 st.write(
     """
-- ► Built data models and maps to generate meaningful insights from customer data, boosting successful eﬀorts by 12%
-- ► Redesigned data model through iterations that improved predictions by 30%
+- ► Built data models and maps to generate meaningful insights from customer data, boosting successful eﬀorts.
+- ► Redesigned data models through iterations that improved predictions by 30%.
 - ► Compiled, studied, and inferred large amounts of data, modeling information to drive sales efforts.
 """
 )
