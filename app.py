@@ -20,7 +20,6 @@ Junior Data Analyst, assisting enterprises by supporting data-driven decision-ma
 """
 EMAIL = "Macklinthomas5@gmail.com"
 SOCIAL_MEDIA = {
-#    "YouTube": "https://youtube.com/c/codingisfun"
     "LinkedIn": "https://www.linkedin.com/in/macklin-thomas-500571133",
     "GitHub": "https://github.com/livenomad",
     "Twitter": "https://twitter.com",
